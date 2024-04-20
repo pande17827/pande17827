@@ -1,45 +1,45 @@
-# Hi there! 👋 I'm [Your Name]
+<p align="center"><img src="https://github.com/pande17827/pande17827/blob/main/header.png" width="1380px" height="180px"></p>
 
-## About Me
+<h2 align="left">Hey 👋, I'm Vikas</h2>
+<!--Intro Section-->
 
-I am a passionate and dedicated Data Scientist with a keen interest in leveraging data to derive meaningful insights and solve complex problems. My journey in the field of data science has equipped me with a diverse skill set, ranging from data analysis and machine learning to data visualization and storytelling.
 
-## Skills
+<!--Skills Section-->
+## My Tech Stack
+<p align="left">
+<h4> Programming Lanauges</h4><p>
 
-- **Programming Languages:** Python, R, SQL
-- **Data Manipulation & Analysis:** Pandas, NumPy, dplyr, SQL
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Data Visualization:** Matplotlib, Seaborn, ggplot2
-- **Big Data Tools:** Spark, Hadoop
-- **Deep Learning:** Neural Networks, CNNs, RNNs
-- **Statistical Modeling:** Regression, Classification, Clustering
-- **Natural Language Processing:** NLTK, SpaCy
-- **Data Mining & Web Scraping:** BeautifulSoup, Scrapy
-- **Version Control:** Git, GitHub
+  
+</p>
+<h4> Frameworks</h4><p>
 
-## Projects
+  
+</p>
+<h4>Software Packages</h4><p>
 
-- [Project 1: Title](link)
-  Description: Brief description of the project.
-- [Project 2: Title](link)
-  Description: Brief description of the project.
-- [Project 3: Title](link)
-  Description: Brief description of the project.
+  
+</p>
+</p><br>
+<!--Connect Section-->
+<hr>
+<p align="center">
+<i>Let's connect and chat! Open to anything under the sun.</i><br>
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/abhinav-bohra">
+<img alt="Vikas Pandey - LinkedIn" width="42px" src="https://github.com/pande17827/pande17827/linkedin.svg"/>
+</a>
+<a href="mailto:abhinavbohra01@gmail.com">
+&nbsp;&nbsp;<img alt="Vikas Pandey - Mail" width="42px" src="https://github.com/pande17827/pande17827/email.svg"/>
+</a>
+<a href="https://instagram.com/abhinavbohra01">
+&nbsp;&nbsp;<img alt="Vikas Pandey - Instagram" width="42px" src="https://github.com/pande17827/pande17827/ig.svg"/>
+</a>
+<a href="https://facebook.com/abhinavbohra01">
+&nbsp;&nbsp;<img alt="Vikas Pandey - Facebook" width="42px" src="https://github.com/pande17827/pande17827/fb.svg"/>
+</a>
+</p><br><br>
 
-## Education
+<!-- Profile Views -->
 
-- **Master of Science in Data Science**
-  University Name, Year
-- **Bachelor of Science in Computer Science**
-  University Name, Year
 
-## Certifications
-
-- **Certified Data Scientist (CDS)**
-  Issuing Organization, Year
-
-## Contact Me
-
-Feel free to reach out to me via [LinkedIn](Your LinkedIn Profile URL) or [Email](Your Email Address) if you'd like to collaborate, discuss potential opportunities, or simply have a chat about all things data science!
-
-Let's connect and explore the endless possibilities of data together!
