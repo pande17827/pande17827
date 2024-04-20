@@ -25,20 +25,9 @@
 <p align="center">
 <i>Let's connect and chat! Open to anything under the sun.</i><br>
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/abhinav-bohra">
-<img alt="Vikas Pandey - LinkedIn" width="42px" src="https://github.com/pande17827/pande17827/linkedin.svg"/>
-</a>
-<a href="mailto:abhinavbohra01@gmail.com">
-&nbsp;&nbsp;<img alt="Vikas Pandey - Mail" width="42px" src="https://github.com/pande17827/pande17827/email.svg"/>
-</a>
-<a href="https://instagram.com/abhinavbohra01">
-&nbsp;&nbsp;<img alt="Vikas Pandey - Instagram" width="42px" src="https://github.com/pande17827/pande17827/ig.svg"/>
-</a>
-<a href="https://facebook.com/abhinavbohra01">
-&nbsp;&nbsp;<img alt="Vikas Pandey - Facebook" width="42px" src="https://github.com/pande17827/pande17827/fb.svg"/>
-</a>
-</p><br><br>
+<a href="https://linkedin.com/in/vikas-kumar-547645142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-kumar-547645142" height="30" width="40" /></a>
+<a href="https://instagram.com/pande.17827.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pande.17827.0" height="30" width="40" /></a>
+</p>
 
 <!-- Profile Views -->
 
