@@ -20,7 +20,7 @@
 
 <!-- Profile Views -->
 ## 📈 My github stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pande17827&show_icons=true&locale=en" alt="pande17827" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pande17827&show_icons=true&locale=en" alt="pande17827" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pande17827&" alt="pande17827" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pande17827&" alt="pande17827" /></p>
 
