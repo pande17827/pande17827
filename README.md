@@ -1,6 +1,8 @@
 <p align="center"><img src="https://github.com/pande17827/pande17827/blob/main/header.png" width="1380px" height="180px"></p>
 
 <h1 align="center">नमस्ते (Namaste), I am Vikas Pandey</h1>
+<p align="center">
+<i>A proficient Machine Learning and Data Analysis Specialist with a strong background in extracting actionable insights from complex datasets</i><br></p>
 <!--Intro Section-->
 
 <br>
