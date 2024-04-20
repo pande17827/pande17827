@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/pande17827/pande17827/blob/main/header.png" width="1380px" height="180px"></p>
 
-<h2 align="left">Hey 👋, I'm Vikas</h2>
+<h1 align="center">Hi, I'm Vikas Pandey</h1>
 <!--Intro Section-->
 
 <br>
